@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px, 10%;
+    
+}
+
+li {
+    display: inline;
+  }
+
+  h1 {
+    display: flex;
+    justify-content: center;
+  }
+
+  td {
+    padding: 2px;
+  }
+
+  
